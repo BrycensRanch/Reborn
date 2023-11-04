@@ -1,0 +1,25 @@
+{
+	"name": "sentryreborn",
+	"version": "1.0.0",
+	"description": "Utility Discord Bot made for ROBLOX Star Wars (Aresko) Bloodlines",
+	"main": "index.js",
+	"scripts": {
+		"start": "node .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "DBAD",
+	"dependencies": {
+		"axios": "^1.6.0",
+		"better-sqlite3": "^9.0.0",
+		"colors": "^1.4.0",
+		"common-tags": "^1.8.2",
+		"discord.js": "12.5.3",
+		"figlet": "^1.7.0",
+		"humanize-plus": "^1.8.2",
+		"noblox.js": "^4.15.0",
+		"string-progressbar": "^1.0.4",
+		"string-similarity": "^4.0.4"
+	}
+}
